@@ -1,6 +1,6 @@
 <h1 align="center">pxeq</h1>
 <h3 align="center">i do what i want</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/B4jfJqiIxvU08/giphy.gif">
+<img align="bottom" alt="Coding" width="400" src="https://media2.giphy.com/media/B4jfJqiIxvU08/giphy.gif">
 
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
