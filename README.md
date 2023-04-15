@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm pxeq</h1>
-<h3 align="center">do what i want</h3>
+<h1 align="center">pxeq</h1>
+<h3 align="center">i do what i want</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/B4jfJqiIxvU08/giphy.gif">
+
+<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
+<p align=center>
+  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard.cnrad.dev/api/1009282496246054962" width=45%></a>
+</p>
 
 - 🔭 I’m currently working on [pyarmory](https://pyarmory.com)
 
