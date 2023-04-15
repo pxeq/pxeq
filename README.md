@@ -2,7 +2,7 @@
 <h3 align="center">do what i want</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/B4jfJqiIxvU08/giphy.gif">
 
-- 🔭 I’m currently working on (https://pyarmory.com)
+- 🔭 I’m currently working on [pyarmory](https://pyarmory.com)
 
 - 🌱 I’m currently learning **python**
 
