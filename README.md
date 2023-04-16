@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard-profile-readme.vercel.app/api/1009282496246054962?theme=dark&bg=4F1883&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
+  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard-profile-readme.vercel.app/api/1009282496246054962?theme=dark&bg=&ani#8c15cdmated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Watching%20the%stars..."<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
 </p>
 
 - 🔭 I’m currently working on [pyarmory](https://pyarmory.com)
