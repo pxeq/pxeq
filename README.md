@@ -20,7 +20,7 @@
 <a href="https://t.me/kekzu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png" alt="sUczvnwxDq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">_______________________________________________</h3>
+<h3 align="left">____________________________________</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
