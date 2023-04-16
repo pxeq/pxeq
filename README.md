@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  <a href="https://discord.com/users/1009282496246054962"><img src="https://api.lanyard.rest/v1/users/1009282496246054962" width=45%></a>
+  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard.cnrad.dev/api/1009282496246054962" width=45%></a>
 </p>
 
 - 🔭 I’m currently working on [pyarmory](https://pyarmory.com)
