@@ -25,5 +25,4 @@
 
 
 
-<p align="center"><img src="https://pngimg.com/d/batman_PNG111.png"
- alt=":batman" height="200" width="250" /></p>
+<p align="center"><img src="https://pngimg.com/d/batman_PNG111.png" alt=":batman" height="200" width="250" /></p>
