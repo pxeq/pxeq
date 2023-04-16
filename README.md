@@ -25,5 +25,5 @@
 
 
 
-<p align="center"><img src="https://media3.giphy.com/media/WrCEs6hKW2oS7Gb0ch/giphy.gif")
+<p align="center"><img src="https://pngimg.com/d/batman_PNG111.png")
 " alt=":batman" height="200" width="250" /></p>
