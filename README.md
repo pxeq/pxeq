@@ -3,15 +3,15 @@
   <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard-profile-readme.vercel.app/api/1009282496246054962?theme=dark&bg=4f1883=false&hideDiscrim=true&borderRadius=30px&idleMessage=Watching%20the%20stars...%20"<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
 </p>
 
-- 🔭 I’m currently working on [pyarmory](https://pyarmory.com)
+- 🔭 I’m currently working on [pxstress](https://pxstress.com)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **aerospace engineering**
 
 - 🤝 I’m looking for help with making a movies site similar to [soap2day](https://soap2day.to)
 
 - 💬 Ask me about **anything**
 
-- Contact me at **xateon.q@gmail.com**
+- Contact me at **pxeq@dr.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
