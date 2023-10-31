@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard-profile-readme.vercel.app/api/1009282496246054962?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Building%20a%20rocket...%20"<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
+  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard-profile-readme.vercel.app/api/1009282496246054962?theme=dark&borderRadius=30px&idleMessage=Building%20a%20rocket...%20"<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
 </p>
 
 - 🔭 I’m currently working on [pxstress](http://pxstress.com)
