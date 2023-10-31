@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **aerospace engineering**
 
-- 🤝 I’m looking for help with making a movies site similar to [soap2day](https://soap2day.to)
+- 🤝 I’m looking for help from other engineers
 
 - 💬 Ask me about **anything**
 
