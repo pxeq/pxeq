@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently studying **aerospace engineering**
 
-- 🤝 I’m looking for help from other engineers
-
-- 💬 Ask me about **anything**
 
 - Contact me at **pxeq@dr.com**
 
