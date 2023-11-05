@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [pxstress](http://pxstress.com)
 
-- 🌱 I’m currently learning **aerospace engineering**
+- 🌱 I’m currently studying **aerospace engineering**
 
 - 🤝 I’m looking for help from other engineers
 
