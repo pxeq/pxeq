@@ -3,12 +3,12 @@
   <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard.cnrad.dev/api/1009282496246054962?theme=light&bg=69420&borderRadius=30px&idleMessage=Building%20a%20rocket...%20&hideTimestamp=true&hideDiscrim=true"<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
 </p>
 
-- 🔭 I’m currently working on [pxstress](http://pxstress.com)
+- 📲 My contact information: [pxstress](http://pxstress.com)
 
-- 🌱 I’m currently studying **aerospace engineering**
+- 📚 I’m currently studying **Comp Sci**
 
 
-- Contact me at **pxeq@dr.com**
+- Email me at: **pxeq@dr.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
