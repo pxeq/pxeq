@@ -8,7 +8,7 @@
 - 📚 I’m currently studying **Comp Sci**
 
 
-- Email me at: **pxeq@dr.com**
+- 📩 Email me at: **pxeq@dr.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
