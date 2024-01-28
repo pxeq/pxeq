@@ -18,7 +18,11 @@
 </p>
 
 <h3 align="left">____________________________________</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pxeq" height="40" width="40" /></a>
+<a href="https://www.lua.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="pxeq" height="40" width="40" /></a>
+
+</p>
 
 
 
