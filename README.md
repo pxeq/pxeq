@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  <a href="https://discord.com/users/1009282496246054962"><img src="https://lanyard.cnrad.dev/api/1009282496246054962?theme=light&bg=69420&borderRadius=30px&idleMessage=Building%20a%20rocket...%20&hideTimestamp=true&hideDiscrim=true"<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
+  <a href="https://discord.com/users/860512242809307147"><img src="https://lanyard.cnrad.dev/api/860512242809307147?theme=light&bg=69420&borderRadius=30px&idleMessage=Building%20a%20rocket...%20&hideTimestamp=true&hideDiscrim=true"<embed idleMessage=:yourmessage> <embed idleMessage=:yourmessage> <width=45%></a>
 </p>
 
 - 📲 My website: [hidelbrando](http://hidelbrando.com)
